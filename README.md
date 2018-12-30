@@ -6,4 +6,4 @@ the source code is in another branch . BUT it's not up to date now.(~~maybe I wi
 
 #### very import 
 ---
-**our presentation insider (ppt|pdf)  reference to insider.pdf .  I'm very grateful to them .**
+**Our presentation insider (ppt|pdf)  refers to insider.pdf .  I'm very grateful to them .**
