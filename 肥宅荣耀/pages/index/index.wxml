@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <text class="temp">{{ msg1 }}</text>
+    <button bindtap="clickMe">点击获取位置信息</button>
+  </view>
+    <view catchtap="onTapJump">
+      <button>Jump To Apple</button>
+    </view>
+    <view catchtap="onTapKeep">
+      <button>keep</button>
+    </view>
+    <view catchtap="onTapWeather">
+      <button>Weather</button>
+    </view>
+    <view catchtap="onTapCamera">
+      <button>Camera</button>
+    </view>
+</view>
